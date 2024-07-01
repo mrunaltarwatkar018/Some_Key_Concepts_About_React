@@ -1,0 +1,43 @@
+Documentation: 
+		https://react.dev/
+		https://react.dev/learn/add-react-to-an-existing-project
+
+VITE:
+		https://vitejs.dev/guide/
+
+node js: 
+		https://nodejs.org/en/download/package-manager
+
+REMIX Docs:
+		https://remix.run/docs/en/main
+
+React-router-dom v6:
+		https://dev.to/adidoshi/react-router-dom-v6-51j2
+
+LogRocket: 
+		https://blog.logrocket.com/react-router-v6-guide/
+
+React ROuter Dom v5: 
+		https://v5.reactrouter.com/web/guides/quick-start
+
+React Bootstap:
+		https://react-bootstrap.netlify.app/docs/getting-started/introduction/
+
+React Icons:
+		https://react-icons.github.io/react-icons/
+
+react-parallax-tilt:
+		https://www.npmjs.com/package/react-parallax-tilt
+
+react-tsparticles:
+		https://www.npmjs.com/package/react-tsparticles
+
+Tailwind CSS:
+		https://tailwindcss.com/docs/installation
+
+
+DevUI: 
+		https://www.devui.io/components/cards
+
+
+
